@@ -2,6 +2,13 @@
 
 一个基于 uni-app 开发的具有 iOS 风格的待办事项应用，支持多端运行。
 
+## 功能预览
+
+<div align="center">
+    <img src="static/p1.png" width="200"/>
+    <img src="static/p2.png" width="200"/>
+</div>
+
 ## 功能特点
 
 ### 任务管理
@@ -50,7 +57,7 @@
 
 1. 克隆项目
 ```bash
-git clone [项目地址]
+git clone https://github.com/maile456/TodoList.git
 ```
 
 2. 安装依赖
